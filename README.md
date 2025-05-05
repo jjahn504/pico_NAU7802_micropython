@@ -19,6 +19,8 @@ Changes in zero point over time:
 <img src="시간경과에따른영점변화(SparkFun-500g_NAU7802).png" width="600" height="300"/>
 
 <br>
-I made a WiFI Scale for the student's experiment.
+I made a WiFi-Scale for the student's experiment.
 <br>
 https://blog.naver.com/phy2sci/223855241194
+<br>
+<img src="화면 캡처 2025-05-04 172247.png" width="400" height="800"/>
